@@ -1,0 +1,10 @@
+modmap:
+  - name: Volumes
+    remap:
+      KEY_BRIGHTNESSDOWN: VolumeDown
+      KEY_VOLUMEUP: Mute
+      KEY_VOLUMEDOWN: VolumeUp
+      KEY_CALC: BrightnessDown
+    device:
+      # That's the device who handles the volume controls apparently
+      only: HOLTEK USB-HID Keyboard Consumer Control

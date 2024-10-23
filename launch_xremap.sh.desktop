@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/home/novalix/launch_xremap.sh
+GenericName[en_US]=
+GenericName=
+Icon=application-x-shellscript
+MimeType=
+Name[en_US]=launch_xremap.sh
+Name=launch_xremap.sh
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
